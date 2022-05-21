@@ -2,7 +2,7 @@
 
 The application uses:
 
-- [x] [Github Api](htttps://api.github.com) to search for users and view their profile.
+[Github Api](htttps://api.github.com) to search for users and view their profile.
 
 The UI uses :
 
