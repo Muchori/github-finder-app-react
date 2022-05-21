@@ -1,8 +1,6 @@
 # Github Finder App
 
-The application uses:
-
-[Github Api](htttps://api.github.com) to search for users and view their profile.
+The application uses [Github Api](https://api.github.com) to search for users and view their profile.
 
 The UI uses :
 
