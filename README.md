@@ -2,13 +2,13 @@
 
 The application uses:
 
-      - [x] [Github Api](htttps://api.github.com) to search for users and view their profile.
+- [x] [Github Api](htttps://api.github.com) to search for users and view their profile.
 
 The UI uses :
 
-      - [x] DaisyUI
-      - [x] Tailwind CSS
-      - [ ] ReactJs as the front end framework
+- [x] DaisyUI
+- [x] Tailwind CSS
+- [x] ReactJs as the front end framework
 
 ## Available Scripts
 
