@@ -7,7 +7,6 @@ import ReposList from '../components/repos/ReposList'
 import GithubContext from '../context/github/GithubContext'
 import { getUserAndRepos } from '../context/github/Githubctions'
 
-
 function User() {
   const { dispatch, isLoading, user, repos } = useContext(GithubContext)
 
@@ -35,7 +34,6 @@ function User() {
     const getUserData = async () => {
       const userData = await getUserAndRepos(params.login)
       dispatch({ type: 'GET_USER_AND_REPOS', payload: userData })
-
     }
     getUserData()
   }, [dispatch, params.login])
