@@ -8,6 +8,8 @@ The UI uses :
 - [x] Tailwind CSS
 - [x] ReactJs as the front end framework
 
+Visit [Github Finder App](https://github-finder-app-react-five.vercel.app/)
+
 ## Available Scripts
 
 In the project directory, you can run:
