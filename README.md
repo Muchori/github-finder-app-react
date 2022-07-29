@@ -10,8 +10,6 @@ The UI uses :
 
 Visit [Github Finder App](https://github-finder-app-react-five.vercel.app/)
 
-## Available Scripts
-
 In the project directory, you can run:
 
 ### `npm start`
