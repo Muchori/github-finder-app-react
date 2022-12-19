@@ -6,7 +6,7 @@ The UI uses :
 
 - [x] DaisyUI
 - [x] Tailwind CSS
-- [x] ReactJS as the front end framework
+- [x] React.js as the front end framework
 
 Visit [Github Finder App](https://github-finder-app-react-five.vercel.app/)
 
