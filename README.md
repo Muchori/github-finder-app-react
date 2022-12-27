@@ -1,4 +1,4 @@
-# Github Finder App
+## Github Finder App
 
 The application uses [Github API](https://api.github.com) to search for users and view their profile.
 
@@ -14,7 +14,6 @@ In the project directory, you can run:
 
 ### `npm start`
 Runs the app in the development mode.
-
 
 ### `npm run build`
 Builds the app for production to the `build` folder.
